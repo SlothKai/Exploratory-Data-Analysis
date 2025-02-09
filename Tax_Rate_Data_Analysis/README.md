@@ -41,3 +41,4 @@ To use this notebook:
 
 - The original file was in strict open XML spreadsheet format. It was converted to a valid Excel workbook for use with Pandas.
 - This analysis was part of an interview task focusing on data for the country code 'ID' (Indonesia).
+- If you found any other anomalies with the data that was addressed, feel free to reach out! I would love to know as well ^.^
