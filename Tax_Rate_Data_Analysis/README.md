@@ -1,6 +1,14 @@
 # Tax Rate Data Analysis
 
-This Jupyter notebook contains an analysis of tax rate data for various countries, with a focus on Indonesia (country code 'ID'). Do note that this is a sample dataset.
+This Jupyter notebook contains an analysis of tax rate data for various countries, with a focus on Indonesia (country code 'ID'). Do note that this is a sample dataset given during an interview.
+
+## Files
+
+| File Name                      | Description                                                                 |
+| ------------------------------ | --------------------------------------------------------------------------- |
+| `tax_rate_data_original.xlsx`  | The original dataset provided for analysis.                                 |
+| `tax_rate_data.xlsx`           | The dataset used for the main analysis.                                     |
+| `tax_rate_data_analysis.ipynb` | Jupyter notebook containing the detailed exploratory data analysis process. |
 
 ## Contents
 
