@@ -23,6 +23,8 @@ This repository is a personal project aimed at improving my skills in explorator
 1. [Tax Rate Data Analysis](./Tax_Rate_Data_Analysis/)
    - Analysis of tax rate data for various countries, focusing on Indonesia
    - Identifies data quality issues and inconsistencies
+2. [Countries and Cities Data Analysis](./Countries_And_Cities_Data_Analysis)
+   - In progress
 
 (Will be adding more projects here as I create them)
 
