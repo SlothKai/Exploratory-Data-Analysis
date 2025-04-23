@@ -46,4 +46,4 @@ To use the notebooks in this repository:
 
 ## Note
 
-This is a personal learning repository. The analyses here may not be comprehensive or production-ready, but rather reflect my learning journey in data analysis.
+This is a personal learning repository. The analysis here may not be comprehensive or production-ready, but rather reflect my learning journey in data analysis.
